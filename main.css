@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+.border {
+  margin: 10% 10%;
+  border: 2px solid black;
+}
+.chesssquare{
+  border: 1px solid grey;
+  background-color: white;
+  width:12.5%;
+  height: 10%;
+  float: left;
+  font-size: 50px;
+  text-align: center;
+}
+.chesssquare2{
+  border: 1px solid grey;
+  background-color: darkgrey;
+  width:12.5%;
+  height: 10%;
+  float: left;
+  font-size: 50px;
+  text-align: center;
+}
